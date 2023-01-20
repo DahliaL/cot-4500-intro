@@ -12,7 +12,7 @@ In the command prompt/terminal, make sure you are in the correct directory, the 
 ```
 ##### Python3 Execution
 ```
-  python3 install -r requirements.txt
+  pip install -r requirements.txt
   python3 src/main/intro_to_python.py
 ```
 
